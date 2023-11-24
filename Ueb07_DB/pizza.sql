@@ -1,5 +1,5 @@
 --3
-CREATE SCHEMA pizza;
+CREATE SCHEMA IF NOT EXISTS pizza;
 
 --a
 CREATE TABLE pizza.kunde(
